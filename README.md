@@ -13,7 +13,7 @@ The related datasets are available on:
 
 https://thingspeak.com/channels/1229234
 
-They are also partially published in the selected artciles below:
+They are also partially published in the selected articles below:
 
 Erişen, S. IoT-Based Real-Time updating multi-layered learning system applied for a special care context during COVID-19. Cogent Eng. 2022, 9, 2044588. https://doi.org/10.1080/23311916.2022.2044588
 
