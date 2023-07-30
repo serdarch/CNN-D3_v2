@@ -3,7 +3,7 @@ Convolutional Neural Networks for Automated Systems of Thermal Comfort Control (
 
 ![CNND3_v2](https://github.com/serdarch/CNN-D3_v2/assets/61043858/ad98d7d6-3985-4640-9501-84efead11de5)
 
-The model can also be developed from an earlier version CNN-D2 which is also uploaded on GitHub.
+The model can also be developed from an earlier version CNN-D2 which is also uploaded to GitHub.
 
 To use or develop this model, please cite
 
